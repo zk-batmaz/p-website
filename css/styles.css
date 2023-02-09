@@ -1,0 +1,218 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #3c3b3f;   
+}
+
+h1
+{
+    font-family: Segoe Script, cursive;
+    font-size: 2.7rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #7F669D;
+    line-height: 2;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    color: #7F669D;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #735a8f;
+}
+
+p
+{
+    line-height: 2;
+}
+
+.top
+{
+    background-color: #F3F1F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+hr{
+    border-color: #e7e7e7;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 2.8%;
+    margin: 100px auto 100px auto;
+}
+
+.bottom_cloud
+{
+    position: absolute;
+    left: 250px;
+    bottom: 200px;
+    width: 10%;
+}
+
+.top-cloud
+{
+    position: absolute;
+    right: 250px;
+    top: 10px;
+    width: 10%;
+}
+
+.rainbow-img
+{
+    width: 34%;
+    
+}
+
+.profile img
+{
+    margin-top: 100px;
+}
+
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+
+.gamepad-p
+{
+    margin-top: 0;
+}
+
+.games-container img
+{
+    margin-right: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.art-images
+{
+    background-color: #CAC3D1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: auto;
+    border-radius: 2%;
+}
+
+.examples-icon
+{
+    text-align: center;
+}
+.art-images img
+{
+    display: inline-block;
+    width: 500px;
+    height: 575px;
+    margin-right: 30px;
+    border-radius: 10%;
+}
+
+.short-hr
+{
+    border-color: #e2eaee;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 1.2%;
+}
+
+a
+{
+    color: #987bbd;
+    text-decoration: none;
+    margin: 10px 15px;
+}
+
+a:hover
+{
+    color: #f1f0f0;
+}
+
+.skill-row
+{
+    width: 40%;
+    margin: 85px auto 85px auto;
+    text-align: left;
+}
+
+.design-development-img
+{
+    float: left;
+    margin-right: 25px;
+}
+
+.gamer-girl-img
+{
+    float: right;
+    margin-left: 15px;
+}
+
+.painting-img
+{
+    float: left;
+    margin-right: 25px;
+}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    color: #f1f0f0;
+    font-size: 19px;
+    background: #7F669D;
+    padding: 8px 19px 8px 19px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #c2b7cc;
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+  .contact-me
+  {
+    margin-bottom: 100px;
+  }
+
+  .contact-me p
+  {
+    margin-bottom: 65px;
+  }
+
+  .bottom
+  {
+    background-color: #7F669D;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-bottom: 0;
+  }
+
+  .bottom p
+  {
+    font-family: 'Montserrat', sans-serif;
+    color: #e5e0e9;
+    font-size: 0.8rem;
+    padding: 10px 0;
+  }
+
+  .bottom a
+  {
+    color: #453557;
+  }
+  
+  .bottom a:hover
+  {
+    color: #e5e0e9;
+  }
